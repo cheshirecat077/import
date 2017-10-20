@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "name": "Sony",
+    "model": "MDR-XB550AP green",
+    "price": 3490,
+    "desc" : "",  
+      "img": ["img/sony/MDR-XB550APgreen/01.jpg" , "img/sony/MDR-XB550APgreen/02.jpg" , "img/sony/MDR-XB550APgreen/02.jpg"], 
+       "quant": 5  },
+
+  {
+    "id": 2,
+    "name": "Sony",
+    "model": "MDR-XB550AP White",
+    "price": 3490,
+    "desc" : "",
+    "img": ["img/sony/MDR-XB550APwhite/01.jpg" , "img/sony/MDR-XB550APwhite/02.jpg" , "img/sony/MDR-XB550APwhite/03.jpg"],
+     "quant": 7
+  },
+
+  {
+    "id": 3,
+    "name": "Sony",
+    "model": "Sony MDR-ZX610AP Black Red",
+    "price": 3190,
+    "desc" : "",
+    "img": ["img/sony/MDR-ZX610APred/01.jpg" , "img/sony/MDR-ZX610APred/02.jpg" , "img/sony/MDR-ZX610APred/03.jpg"],
+     "quant": 6
+  }, 
+
+  {
+    "id": 4,
+    "name": "Sony",
+    "model": "MDR-ZX610AP White ",
+    "price": 0,
+    "desc" : "",
+    "img": ["img/sony/MDR-ZX610APwhite/01.jpg" , "img/sony/MDR-ZX610APwhite/02.jpg" , "img/sony/MDR-ZX610APwhite/03.jpg"], 
+    "quant": 5
+  },  
+
+  {
+    "id": 5,
+    "name": "Sony",
+    "model": "MDR-1ADAC",
+    "price": 18970,
+    "desc" : "",
+    "img": ["img/sony/MDR-1ADAC/01.png" , "img/sony/MDR-1ADAC/02.jpg" , "img/sony/MDR-1ADAC/03.jpg"],
+     "quant": 4
+  },  
+
+  {
+    "id": 6,
+    "name": "Sony",
+    "model": "MDR-Z7",
+    "price": 38990,
+    "desc" : "",
+    "img": ["img/sony/MDR-Z7/01.jpg" , "img/sony/MDR-Z7/02.jpeg" , "img/sony/MDR-Z7/03.jpg"], 
+    "quant": 5
+  },  
+
+  {
+    "id": 7,
+    "name": "Sony",
+    "model": "MDR-1A Silver",
+    "price": 13990,
+    "desc" : "",
+    "img": ["img/sony/MDR-1Asilver/01.jpg" , "img/sony/MDR-1Asilver/02.jpg" , "img/sony/MDR-1Asilver/03.jpg"], 
+    "quant": 5
+  },  
+
+  {
+    "id": 8,
+    "name": "Sony",
+    "model": "MDR-7520",
+    "price": 29980,
+    "desc" : "",
+    "img": ["img/sony/MDR-7520/01.jpg" , "img/sony/MDR-7520/02.jpg" , "img/sony/MDR-7520/03.jpg"],
+     "quant": 7
+  },  
+
+  {
+    "id": 9,
+    "name": "Sony",
+    "model": "XBA-A2",
+    "price": 12990,
+    "desc" : "",
+    "img": ["img/sony/XBA-A2/01.jpg" , "img/sony/XBA-A2/02.jpg" , "img/sony/XBA-A2/03.jpg"], 
+    "quant": 9
+  },  
+
+  {
+    "id": 10,
+    "name": "Sony",
+    "model": "MDR-1000X beige",
+    "price": 24990,
+    "desc" : "",
+    "img": ["img/sony/MDR-1000Xbeige/01.jpg" , "img/sony/MDR-1000Xbeige/02.jpg" , "img/sony/MDR-1000Xbeige/03.jpg"],
+     "quant": 7
+  },  
+
+  {
+    "id": 11,
+    "name": "Sony",
+    "model": "MDR-Z1R",
+    "price": 99890,
+    "desc" : "",
+    "img": ["img/sony/MDR-Z1R/01.jpg" , "img/sony/MDR-Z1R/02.jpg" , "img/sony/MDR-Z1R/03.jpg"], 
+    "quant": 1
+  },  
+
+  {
+    "id": 12,
+    "name": "Sony",
+    "model": "h.ear MDR-100ABN lime",
+    "price": 13990,
+    "desc" : "",
+    "img": ["img/sony/MDR-100ABNlime/01.jpg" , "img/sony/MDR-100ABNlime/02.jpg" , "img/sony/MDR-100ABNlime/03.jpg"],
+     "quant": 5
+  },  
+
+  {
+    "id": 13,
+    "name": "KOSS",
+    "model": "",
+    "price": 0,
+    "desc" : "",
+    "img": [], "quant": ""
+  },
+
+  {
+    "id": 14,
+    "name": "KOSS",
+    "model": "QZ99",
+    "price": 6990,
+    "desc" : "",
+    "img": ["img/koss/QZ99/01.jpg" , "img/koss/QZ99/02.jpg" , "img/koss/QZ99/03.jpg"], 
+    "quant": 8
+  },
+
+  {
+    "id": 15,
+    "name": "KOSS",
+    "model": "Porta Pro ",
+    "price": 3990,
+    "desc" : "",
+    "img": ["img/koss/Porta Pro/01.jpg" , "img/koss/Porta Pro/02.jpg" , "img/koss/Porta Pro/03.jpg"], 
+    "quant": 6
+  },
+
+  {
+    "id": 16,
+    "name": "KOSS",
+    "model": "ESP-950",
+    "price": 70990,
+    "desc" : "",
+    "img": ["img/koss/ESP-950/01.jpg" , "img/koss/ESP-950/02.jpg" , "img/koss/ESP-950/03.jpg"],
+     "quant": 6 
+  },
+
+  {
+    "id": 17,
+    "name": "KOSS",
+    "model": "SB45",
+    "price": 3590,
+    "desc" : "",
+    "img": ["img/koss/SB45/01.jpg" , "img/koss/SB45/02.jpg" , "img/koss/SB45/03.jpg"], 
+    "quant": 6
+  },
+
+  {
+    "id": 18,
+    "name": "KOSS",
+    "model": "UR20",
+    "price": 1890,
+    "desc" : "",
+    "img": ["img/koss/UR20/01.jpg" , "img/koss/UR20/02.jpg" , "img/koss/UR20/03.jpg"], 
+    "quant": 8
+  },
+
+  {
+    "id": 19,
+    "name": "KOSS",
+    "model": "KSC75",
+    "price": 1390,
+    "desc" : "",
+    "img": ["img/koss/KSC75/01.jpg" , "img/koss/KSC75/02.jpeg" , "img/koss/KSC75/03.jpg"],
+     "quant": 6
+  },
+
+  {
+    "id": 20,
+    "name": "KOSS",
+    "model": "QZ5",
+    "price": 6290,
+    "desc" : "",
+    "img": ["img/koss/QZ5/01.jpg" , "img/koss/QZ5/02.jpg" , "img/koss/QZ5/03.jpg"],
+     "quant": 3
+  },
+
+  {
+    "id": 21,
+    "name": "KOSS",
+    "model": "Pro4S ",
+    "price": 11590,
+    "desc" : "",
+    "img": ["img/koss/Pro4S/01.jpg" , "img/koss/Pro4S/02.jpg" , "img/koss/Pro4S/03.jpg"], 
+    "quant": 4
+  },
+
+  {
+    "id": 22,
+    "name": "KOSS",
+    "model": "BT539i black",
+    "price": 6790,
+    "desc" : "",
+    "img": ["img/koss/BT539iblack/01.jpg" , "img/koss/BT539iblack/02.jpg" , "img/koss/BT539iblack/03.jpg"],
+     "quant": 6
+  },
+  
+  {
+    "id": 23,
+    "name": "KOSS",
+    "model": "",
+    "price": 6490,
+    "desc" : "",
+    "img": [],
+     "quant": 5
+  }, 
+   
+  {
+    "id": 24,
+    "name": "Philips",
+    "model": "A5PRO",
+    "price": 9990,
+    "desc" : "",
+    "img": ["img/philips/A5PRO/01.jpg" , "img/philips/A5PRO/02.jpg" , "img/philips/A5PRO/03.jpg"], 
+    "quant": 8
+  },   
+
+  {
+    "id": 25,
+    "name": "Philips",
+    "model": "SHP2500",
+    "price": 1490,
+    "desc" : "",
+    "img": ["img/philips/SHP2500/01.jpg" , "img/philips/SHP2500/02.jpg" , "img/philips/SHP2500/03.jpg"],
+     "quant": 5
+  },   
+
+
+    {
+    "id": 26,
+    "name": "Pioneer",
+    "model": "SE-MJ561BT-t",
+    "price": 5490,
+    "desc" : "",
+    "img": ["img/pioneer/SE-MJ561BT/01.jpg" , "img/pioneer/SE-MJ561BT/02.jpg" , "img/pioneer/SE-MJ561BT/03.JPG"],
+     "quant": 7
+  },
+
+
+    {
+    "id": 27,
+    "name": "Pioneer",
+    "model": "HRM-6",
+    "price": 10990,
+    "desc" : "",
+    "img": ["img/pioneer/HRM-6/01.jpg" , "img/pioneer/HRM-6/02.jpg" , "img/pioneer/HRM-6/03.jpg"], 
+    "quant": 8
+  },
+
+    {
+    "id": 28,
+    "name": "Sennheiser",
+    "model": "HD 599",
+    "price": 10490,
+    "desc":"",
+    "img": ["img/sennheiser/hd599/01.jpg", "img/sennheiser/hd599/02.jpg", "img/sennheiser/hd599/03.jpg"],
+    "quant": 4
+  },
+
+    {
+    "id": 29,
+    "name": "Sennheiser",
+    "model": "HD 280 PRO",
+    "price": 5990,
+    "desc" : "",
+    "img": ["img/sennheiser/hd280pro/01.jpg", "img/sennheiser/hd280pro/02.jpg", "img/sennheiser/hd280pro/03.jpg"], 
+    "quant": 5
+  },
+
+    {
+    "id": 30,
+    "name": "Sennheiser",
+    "model": "HD 471i ",
+    "price": 4990,
+    "desc" : "",
+    "img": ["img/sennheiser/hd471i/01.jpg", "img/sennheiser/hd471i/02.jpg" , "img/sennheiser/hd471i/03.jpg"], 
+    "quant": 6
+  },
+
+    {
+    "id": 31,
+    "name": "Sennheiser",
+    "model": "HD 201",
+    "price": 1290,
+    "desc" : "",
+    "img": ["img/sennheiser/hd201/01.jpg" , "img/sennheiser/hd201/02.jpg" , "img/sennheiser/hd201/03.jpg"],
+    "quant": 9
+  },
+
+    {
+    "id": 32,
+    "name": "Sennheiser",
+    "model": "HD 205 II",
+    "price": 2190,
+    "desc" : "",
+    "img": ["img/sennheiser/hd205II/01.jpg", "img/sennheiser/hd205II/02.jpg" , "img/sennheiser/hd205II/02.jpg" , "img/sennheiser/hd205II/03.jpg"], 
+    "quant": 7
+  },
+
+    {
+    "id": 33,
+    "name": "Sennheiser",
+    "model": "PC 320",
+    "price": 3890,
+    "desc" : "",
+    "img": ["img/sennheiser/pc320/01.jpg" , "img/sennheiser/pc320/02.jpg" , "img/sennheiser/pc320/03.jpg"], 
+    "quant": 5
+  },
+
+    {
+    "id": 34,
+    "name": "Sennheiser",
+    "model": "G4ME One",
+    "price": 11490,
+    "desc" : "",
+    "img": ["img/sennheiser/G4MEOne/01.jpg" , "img/sennheiser/G4MEOne/02.jpg" , "img/sennheiser/G4MEOne/03.jpg"],
+    "quant": 6
+  },
+
+    {
+    "id": 35,
+    "name": "Sennheiser",
+    "model": "Urbanite XL Denim",
+    "price": 9690,
+    "desc" : "",
+    "img": ["img/sennheiser/Urbanite/01.jpg" , "img/sennheiser/Urbanite/02.jpg" , "img/sennheiser/Urbanite/03.jpg" ],
+    "quant": 3
+  },
+
+    {
+    "id": 36,
+    "name": "Sennheiser",
+    "model": "HD6 MIX",
+    "price": 11590,
+    "desc" : "",
+    "img": ["img/sennheiser/hd6mix/01.jpg" , "img/sennheiser/hd6mix/02.jpg" , "img/sennheiser/hd6mix/03.jpg"], 
+    "quant": 7
+  },
+
+    {
+    "id": 37,
+    "name": "Sennheiser",
+    "model": "MOMENTUM 2.0 OEG",
+    "price": 9500,
+    "desc" : "",
+    "img":  ["img/sennheiser/momentum/01.jpg" , "img/sennheiser/momentum/02.jpg" , "img/sennheiser/momentum/03.jpg"], 
+    "quant": 3
+  }
+]

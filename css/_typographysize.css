@@ -1,0 +1,57 @@
+html {
+  font-size: 16px;
+  -webkit-font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures;
+  font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures; }
+
+h1 {
+  font-size: 4rem; }
+
+h2 {
+  font-size: 2.55rem; }
+
+h3 {
+  font-size: 2rem; }
+
+h4 {
+  font-size: 1.5rem; }
+
+h5 {
+  font-size: .875rem; }
+
+h6 {
+  font-size: .6rem; }
+
+caption {
+  font-size: .875rem; }
+
+@media screen and (max-width: 750px) {
+  html {
+    font-size: .95rem; } }
+
+@media screen and (max-width: 700px) {
+  html {
+    font-size: .875rem; } }
+
+@media screen and (max-width: 650px) {
+  html {
+    font-size: .8rem; } }
+
+@media screen and (max-width: 600px) {
+  html {
+    font-size: .75rem; } }
+
+@media screen and (max-width: 550px) {
+  html {
+    font-size: .7rem; } }
+
+@media screen and (max-width: 500px) {
+  html {
+    font-size: .625rem; } }
+
+@media screen and (max-width: 450px) {
+  html {
+    font-size: .55rem; } }
+
+@media screen and (max-width: 400px) {
+  html {
+    font-size: .5rem; } }
