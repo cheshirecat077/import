@@ -87,9 +87,7 @@ $color2: green;
   line-height: 5rem;
 }
 
-.shop {
 
-}
 
 
 .about {
@@ -126,3 +124,44 @@ $color2: green;
    border-left: 20px solid transparent;
    border-right: 0;
 } 
+
+/* SHOP */
+
+.shop {
+
+
+}
+
+.card {
+   display: inline-block;
+   width: 30%;
+   min-width: 300px;
+   vertical-align: top;
+   font-size: 1rem;
+
+
+
+
+
+
+  &__model {
+
+  }
+
+
+
+}
+
+  .card__image {
+    display: block;
+      width: 300px;
+      height: 300px;
+  }
+
+      .card__name {
+    color: red;
+  }
+
+  .card__image1{
+     width: 100%;
+  }

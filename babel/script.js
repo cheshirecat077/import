@@ -1,6 +1,7 @@
 window.onload = function() {
+  /*NAVIGATION*/
 
-  const colorLine = document.querySelector(".header__nav-line");
+const colorLine = document.querySelector(".header__nav-line");
 const links = document.querySelectorAll(".header__nav-link");
 const colors = ["deepskyblue", "orange", "firebrick", "gold", "magenta", "black", "darkblue"];
 
@@ -35,38 +36,38 @@ const colors = ["deepskyblue", "orange", "firebrick", "gold", "magenta", "black"
     links[i].addEventListener("mouseenter", mouseenterFunc);
   }
   
+/* AXIOS REQUEST TO JSON */
 
-
-  const shop1 = document.querySelector('.shop');
-  console.log(shop1);
-
-
- axios.get('../store.json')
-  .then(function (response) {
+  const shop = document.querySelector('#shop');
+        axios.get('../store.json')
+      .then(function (response) {
     console.log(response);
     const data = response.data;
-    
-    let btn = document.querySelectorAll('.btn');
-    for (let i = 0, len = btn.length; i < len; i++) {
-      btn[i].addEventListener('click', function(){
-        // var attr = this.getAttribute('attr');
-        
-      });
-    }
-    for (let i = 0, len = data.length; i < len; i++) {
-    console.log( data[i].model);
-
-    shop1.insertAdjacentHTML('beforeEnd', `<p>${data[i].model}</p>`);
-    }
-  })
+for (let i = 0, len = data.length; i < len; i++) {
+ shop.insertAdjacentHTML('beforeEnd', `<div class='card' data-id='${data[i].id}' > 
+                                               <div  class='card__img'><img class='card__img1' src='${data[i].img[0]}' alt='image'></div>
+                                               <div> <h3 class='card__name'>${data[i].name}</h3>    
+                                                     <h3 class='card__model'>${data[i].model}</h3> 
+                                                     <span class='card__price'>${data[i].price}</span>
+                                               </div> 
+                                              <div class="quantity">
+                                                <button class="plus-btn" type="button" name="button">+</button>
+                                                <input class='inp' name="name" value="1" type="text">
+                                                <button class="minus-btn" type="button" name="button">-</button>
+                                                <div class="total-price" data-price='${data[i].price}' >${data[i].price}</div>
+                                            </div>
+                                           <button class='add'>add to basket</button>
+                                          </div>`);
+  }
+})
   .catch(function (error) {
   console.log(error);
   });
 
- /* let itemArr = [],
+/* INTERNET SHOP */
+  let itemArr = [],
       summaButton = document.querySelector('.summa-button'),
-      basket = document.querySelector('#basket'),
-      shop = document.querySelector('#shop');
+      basket = document.querySelector('#basket');
 
 shop.addEventListener('click', function(e){
        if (e.target.className === "minus-btn") { minusFun(e) }
@@ -183,6 +184,6 @@ summaButton.addEventListener('click', sumFun);
     }, 0);
     var sum1 = document.querySelector('.summa');
     sum1.innerHTML = res;
-  }*/
+  }
 };
 
